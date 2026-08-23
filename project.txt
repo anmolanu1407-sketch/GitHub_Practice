@@ -1,1 +1,7 @@
 My first GitHub Project.
+
+This project is now connected to GitHub.
+
+This change was made directly by GitHub.
+
+This is a fetch practice.
